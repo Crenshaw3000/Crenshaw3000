@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Apache Airflow**
 
-- 👯 I’m looking to collaborate on **data focused projects**
+- 👯 I’m looking to collaborate on ** Mobile App and data focused projects**
 
 - 💬 Ask me about **Pandas**
 
