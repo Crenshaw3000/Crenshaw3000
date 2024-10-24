@@ -2,15 +2,15 @@
 <h3 align="center">A passionate SWE and data scientist</h3>
 <img align="right" alt="Coding"  width="400" src="https://thumbs.dreamstime.com/b/young-african-woman-using-laptop-computer-sitting-lotus-pose-crossed-legs-isolated-vector-illustration-woman-laptop-203066450.jpg"
 
-- 🌱 I’m currently learning **Apache Airflow**
+ 🌱 I’m currently learning **Apache Airflow**
 
-- 👯 I’m looking to collaborate on **data focused projects**
+ 👯 I’m looking to collaborate on **data focused projects**
 
-- 💬 Ask me about **Pandas**
+ 💬 Ask me about **Pandas**
 
-- 📫 How to reach me **crenshs@gmail.com**
+ 📫 How to reach me **crenshs@gmail.com**
 
-- ⚡ Fun fact **I love anime**
+ ⚡ Fun fact **I love anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
