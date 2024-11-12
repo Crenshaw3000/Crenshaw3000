@@ -2,7 +2,7 @@
 <h3 align="center">A passionate SWE and data scientist</h3>
 <img align="right" alt="Coding"  width="400" src="https://thumbs.dreamstime.com/b/young-african-woman-using-laptop-computer-sitting-lotus-pose-crossed-legs-isolated-vector-illustration-woman-laptop-203066450.jpg"
 
- 🌱 I’m currently learning **Apache Airflow**
+ 🌱 I’m currently learning **PowerBI**
 
  👯 I’m looking to collaborate on **data focused projects**
 
