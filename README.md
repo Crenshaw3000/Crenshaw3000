@@ -4,7 +4,7 @@
 
  🌱 I’m currently learning **Google BigQuery**
 
- 👯 I’m looking to collaborate on **data focused projects**
+ 👯 I’m looking to collaborate on **Data Focused Projects**
 
  💬 Ask me about **Pandas**
 
